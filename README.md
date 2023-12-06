@@ -1,4 +1,4 @@
-# chemokb
+# ChemoKB and ChemoKB-open
 ChemoKB is a a knowledge graph of chemotherapy protocols. A subset of ChemoKB, named ChemoKB-open, includes only non-confidential protocols (513 out of 1,358).
 These protocols have been extracted from the Pharmacy database of the Georges Pompidou Eureopean Hospital (HEGP) of the AP-HP. 
 
