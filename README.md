@@ -2,6 +2,9 @@
 ChemoKB is a a knowledge graph of chemotherapy protocols. A subset of ChemoKB, named ChemoKB-open, includes only non-confidential protocols (513 out of 1,358).
 These protocols have been extracted from the Pharmacy database of the Georges Pompidou Eureopean Hospital (HEGP) of the AP-HP. 
 
+ChemoKB-open will soon be available at https://chemokb.inria.fr/, with a SPARQL endpoint.
+ChemoKB-open is available for download at XX.
+
 
 # Reference classifications
 1 - Principal indications (in terms of cancer location) of chemotherapy protocols are in **PRC_TUMOR_LOCATION.csv**. <br />
