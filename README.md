@@ -6,7 +6,7 @@ ChemoKB-open will soon be available at https://chemokb.inria.fr/, with a SPARQL 
 ChemoKB-open is available for download at XX.
 ChemoKB is described in more details in [1]
 
-ChemoKB instanciates the ChemoOnto ontology [2, 3].
+ChemoKB instanciates the ChemoOnto ontology [2, 3, 4].
 
 
 # Reference classifications
@@ -15,8 +15,11 @@ ChemoKB instanciates the ChemoOnto ontology [2, 3].
 
 
 # References
-[1] Jong Ho Jhee, Alice Rogier, Dune Giraud, Emma Pinet, Brigitte Sabatier, Bastien Rance and Adrien Coulet. Representation and comparison of chemotherapy protocols with ChemoKG and graph embeddings, submitted to SWAT4HCLS 2024.
-[2] Rogier, A., Rance, B., Coulet, A. (2023). ChemoOnto, an ontology to qualify the course of chemotherapies. Bio-ontologies COSI 2023, Poster. 
-[3] ChemoOnto on the BioPortal: https://bioportal.bioontology.org/ontologies/CHO
+[1] Jong Ho Jhee, Alice Rogier, Dune Giraud, Emma Pinet, Brigitte Sabatier, Bastien Rance and Adrien Coulet. Representation and comparison of chemotherapy protocols with ChemoKG and graph embeddings, submitted to SWAT4HCLS 2024. <br />
+[2] Rogier, A., Rance, B., Coulet, A. (2023). ChemoOnto, an ontology to qualify the course of chemotherapies. Bio-ontologies COSI 2023, Poster.  <br />
+[3] ChemoOnto on the BioPortal: https://bioportal.bioontology.org/ontologies/CHO <br />
+[4] ChemoOnto on GitHub: https://github.com/TeamHeka/ChemoOnto
+
+
 
 
