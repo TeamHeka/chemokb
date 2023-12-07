@@ -12,6 +12,7 @@ ChemoKB instanciates the ChemoOnto ontology [2, 3, 4].
 # Reference classifications
 1 - Principal indications (in terms of cancer location) of chemotherapy protocols are in **PRC_TUMOR_LOCATION.csv**. <br />
 2 - ATC codes (level3) associated with drugs of chemotherapy protocols are in **PRC_ATC_LVEL3.csv**. <br />
+3 - Principal indications and ATC codes (level3) for cluster analysis in **LIST_OF_LOCATION_ATC3.docx**. <br />
 
 
 # References
